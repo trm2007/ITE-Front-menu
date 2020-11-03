@@ -110,7 +110,7 @@ import HorizontalMenu from "./src/HorizontalMenu";
 import "./css/style.css";
 
 export default {
-  name: "UniversalMenu",
+  name: "IteFrontMenu",
   components: {
     ContextMenu,
     NavigateMenuItem,
