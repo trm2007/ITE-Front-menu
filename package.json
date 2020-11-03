@@ -1,11 +1,11 @@
 {
-  "name": "ite-components",
-  "version": "1.0.0",
-  "description": "ITE Vuetify-components for building App",
-  "keywords": ["ite", "menu", "table", "navigation"],
-  "homepage": "http://git.ite-ng.ru/root/exchange/-/tree/EXCHANGE-3-vuetify/assets/components",
+  "name": "ite-front-menu",
+  "version": "0.0.1",
+  "description": "ITE Vuetify-menu for building App",
+  "keywords": ["ite", "menu", "navigation"],
+  "homepage": "http://git.ite-ng.ru/cont/frontmenu",
   "repository": {
-    "url": "http://git.ite-ng.ru/root/exchange/-/tree/EXCHANGE-3-vuetify/assets/components",
+    "url": "http://git.ite-ng.ru/cont/frontmenu",
     "type": "git"
   },
   "author": "Sergey Kolesnikov <kolesnsv@ite-ng.ru>",
@@ -20,14 +20,12 @@
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vuetify": "^2.3.14",
-    "vuex": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.0",
     "@vue/cli-plugin-eslint": "^4.5.0",
     "@vue/cli-service": "^4.5.0",
     "babel-eslint": "^10.1.0",
-    "deepmerge": "^4.2.2",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "sass": "^1.27.0",
