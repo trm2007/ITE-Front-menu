@@ -102,7 +102,7 @@
 
 <script>
 import axios from "axios";
-import TestData from "./testdata";
+import TestData from "./src/testdata";
 import ContextMenu from "./src/ContextMenu";
 import NavigateMenuItem from "./src/NavigateMenuItem";
 import HorizontalMenu from "./src/HorizontalMenu";

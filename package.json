@@ -1,11 +1,11 @@
 {
   "name": "ite-front-menu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ITE Vuetify-menu for building App",
   "keywords": ["ite", "menu", "navigation"],
   "homepage": "http://git.ite-ng.ru/cont/frontmenu",
   "repository": {
-    "url": "http://git.ite-ng.ru/cont/frontmenu",
+    "url": "http://git.ite-ng.ru/cont/frontmenu.git",
     "type": "git"
   },
   "author": "Sergey Kolesnikov <kolesnsv@ite-ng.ru>",
